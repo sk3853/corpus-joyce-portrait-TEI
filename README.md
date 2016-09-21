@@ -65,4 +65,4 @@ examples that he had learnt in Latin had run:
 
 ##How to contribute:
 
-See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
+See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md).
